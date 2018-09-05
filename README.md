@@ -264,4 +264,4 @@ vn.py使用github托管其源代码，如果希望贡献代码请使用github的
 ### License
 MIT
 
-jamie 0905
+by jamie 0905
