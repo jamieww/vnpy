@@ -47,25 +47,25 @@ vn.py是基于Python的开源量化交易程序开发框架，起源于国内私
 
 
     - 数字货币
-
+    
         - OKEX（okex)
-
+    
         - 火币（huobi)
-
+    
         - 币安（binance)
-
+    
         - BitMEX (bitmex)
-
+    
         - Bitfinex (bitfinex)
-
+    
         - Coinbase Pro (coinbase)
-
+    
         - FCoin (fcoin)
-
+    
         - BigOne (bigone)
-
+    
         - LBank（lbank）
-
+    
         - CCXT (ccxt)
 
 
@@ -144,7 +144,6 @@ sudo /home/vnpy/anaconda2/bin/conda install -c quantopian ta-lib=0.4.9
 ```
 
 其中"/home/vnpy/anaconda2/"是你的Anaconda安装路径。
-
 
 ---
 ### Quick Start
@@ -233,7 +232,6 @@ if __name__ == '__main__':
 
 * [Visual Studio 2013](https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx)：这个就不多说了（作者编译API封装用的是2013版本）
 
-
 ---
 ### 贡献代码
 
@@ -255,26 +253,12 @@ vn.py使用github托管其源代码，如果希望贡献代码请使用github的
 7. 等待review, 需要继续改进，或者被Merge!
 
 ---
-### 项目捐赠
-
-过去的半年中陆续收到了许多用户的捐赠，在此深表感谢！所有的捐赠资金都投入到了vn.py社区基金中，用于支持vn.py项目的运作。最近主要的一个支出是相关文档编写，目前来看文档完成的速度和质量都显著超出预期。
-
-先强调一下：**vn.py是开源项目，可以永久免费使用，并没有强制捐赠的要求！！！**
-
-捐赠方式：支付宝3216630132@qq.com（*晓优）
-
-
-计划长期维护一份捐赠清单，所以请在留言中注明是项目捐赠以及捐赠人的名字（当然想匿名的用户就随意了）。
-
-
----
 ### 其他内容
 
 * [获取帮助](https://github.com/vnpy/vnpy/blob/dev/docs/SUPPORT.md)
 * [社区行为准侧](https://github.com/vnpy/vnpy/blob/dev/docs/CODE_OF_CONDUCT.md)
 * [Issue模板](https://github.com/vnpy/vnpy/blob/dev/docs/ISSUE_TEMPLATE.md)
 * [PR模板](https://github.com/vnpy/vnpy/blob/dev/docs/PULL_REQUEST_TEMPLATE.md)
-
 
 ---
 ### License
